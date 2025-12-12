@@ -1,6 +1,12 @@
 # Reproduction "CS-Shapley: Class-wise Shapley Values for Data Valuation in Classification"
 
-Code for the submission to TMLR 2024. The original paper can be found [here](https://arxiv.org/abs/2211.06800).
+Code for the submission to TMLR 2024.
+
+Markus Semmler, Miguel de Benito Delgado
+[Re] *Classwise-Shapley Values for Data Valuation*
+Transactions on Machine Learning Research (TMLR), 2024
+
+The original paper can be found [here](https://arxiv.org/abs/2211.06800).
 
 # Getting started
 
